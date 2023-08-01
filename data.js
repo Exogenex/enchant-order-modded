@@ -16,7 +16,6 @@ var data = {
                 "turtle_shell"
             ]
         },
-
         "Aqua Affinity": {
             "levelMax": "1",
             "weight": "2",
@@ -34,6 +33,17 @@ var data = {
             "incompatible": [
                 "Smite",
                 "Sharpness"
+            ],
+            "items": [
+                "sword",
+                "axe"
+            ]
+        },
+        "My Custom Enchant": {
+            "levelMax": "9",
+            "weight": "1",
+            "incompatible": [
+                ""
             ],
             "items": [
                 "sword",

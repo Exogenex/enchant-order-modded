@@ -40,7 +40,7 @@ var data = {
             ]
         },
         "My Custom Enchant": {
-            "levelMax": "9",
+            "levelMax": "5",
             "weight": "1",
             "incompatible": [
                 ""
